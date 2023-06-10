@@ -340,9 +340,9 @@ h1 {
 }
 
 @media (max-width: 1024px) {
-    /* .social {
-        top: 468px;
-    } */
+    .social {
+        top: 620px;
+    }
 
     #info {
         width: 400px;
